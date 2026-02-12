@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\seanf\Documents\GitHub\robots-123\build\CMakeFiles\897ebd9b6bd4fb15a768f8c2dee56003\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\seanf\Documents\GitHub\robots-123\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\seanf\Documents\GitHub\robots-123\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A1F876DA-CD77-39ED-B291-D14ACAB1CFF0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

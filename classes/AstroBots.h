@@ -104,6 +104,11 @@ struct DroneShip : ShipBase {
     int SetupShip() override;
 };
 
+struct Anialator : ShipBase {
+    Anialator() { name = "Anialator"; }
+    int SetupShip() override;
+};
+
 struct MinerShip : ShipBase {
     MinerShip() { name = "Miner"; }
     int SetupShip() override;
